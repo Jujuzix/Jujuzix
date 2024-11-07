@@ -1,4 +1,3 @@
-<h1 aling="left">Heyy </h1>
 
 <h1 align="left">Status</h1>
 
