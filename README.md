@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src=""  ![WhatsApp Image 2024-11-07 at 16 38 40](https://github.com/user-attachments/assets/4b4837c2-30e9-4ff3-a123-6aea89640ca4)
+<img align="left" height="150" src="https://github.com/user-attachments/assets/4b4837c2-30e9-4ff3-a123-6aea89640ca4"
 />
 
 ###
