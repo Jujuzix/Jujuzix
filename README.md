@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://github.com/user-attachments/assets/de44fd87-2893-47e2-b7e4-af0c2daac375"
+<img align="left" height="150" src="https://github.com/user-attachments/assets/bff2d177-c036-4d31-906b-0a2382a55c3b"
 />
 
 ###
