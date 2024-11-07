@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jujuzix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jujuzix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jujuzix&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
@@ -45,7 +45,8 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.pinimg.com/564x/73/a4/13/73a413ddbfee7da8a9b514212bfd49b0.jpg"  />
+<img align="left" height="200" src=""  ![WhatsApp Image 2024-11-07 at 16 38 40](https://github.com/user-attachments/assets/4b4837c2-30e9-4ff3-a123-6aea89640ca4)
+/>
 
 ###
 
