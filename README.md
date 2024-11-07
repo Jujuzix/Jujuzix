@@ -33,9 +33,6 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Jujuzix/Jujuzix/output/snake.svg" alt="Snake animation" />
 
 ###
 
