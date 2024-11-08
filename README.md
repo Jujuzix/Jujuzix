@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá, eu sou {Seu nome}</h1>
+<h1 align="center">👋 Olá, eu sou Juliana Maronez</h1>
 
 <p align="center">
   💻 Estudante de Programação | 📍 Atualmente Terminando Técnico em Informática - IFMS
-</p><br><br>
-
+</p>
+<br>
 <h1 align="left">Status</h1>
 
 ###
