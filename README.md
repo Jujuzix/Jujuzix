@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://github.com/user-attachments/assets/6472adf8-7c99-469a-843c-3003ede42b5c"/>
+<img align="left" height="250" src="https://github.com/user-attachments/assets/6472adf8-7c99-469a-843c-3003ede42b5c"/>
 
 <div align="center">
   <a href="https://www.instagram.com/ju._.maronez/" target="_blank">
