@@ -1,4 +1,9 @@
-## Olá, meu nome é {Juliana Maronez Rosa}!
+<h1 align="center">👋 Olá, eu sou {Seu nome}</h1>
+
+<p align="center">
+  💻 Estudante de Programação | 📍 Atualmente Terminando Técnico em Informática - IFMS
+</p><br><br>
+
 <h1 align="left">Status</h1>
 
 ###
@@ -10,7 +15,7 @@
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<h1 align="left">👩‍💻 Tecnologias</h1>
 
 ###
 
@@ -37,7 +42,7 @@
 
 ###
 
-<h1 align="left">Contato</h1>
+<h1 align="left">📫 Contato</h1>
 
 ###
 
