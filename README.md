@@ -4,7 +4,7 @@
   💻 Estudante de Programação | 📍 Atualmente Terminando Técnico em Informática - IFMS
 </p>
 <br>
-<h1 align="left">Status</h1>
+<h1 align="left">⚙ Statistic</h1>
 
 ###
 
