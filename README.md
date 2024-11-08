@@ -50,8 +50,6 @@
 
 <img align="left" height="150" src="https://github.com/user-attachments/assets/6472adf8-7c99-469a-843c-3003ede42b5c"/>
 
-###
-
 <div align="center">
   <a href="https://www.instagram.com/ju._.maronez/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
