@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Juliana Maronez</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 📍 Atualmente Terminando Técnico em Informática - IFMS
+  💻 Estudante de Programação | 📍 Atualmente em Graduação em Ciência da Computação - UEMS
 </p>
 <br>
 <h1 align="left">⚙ Statistic</h1>
